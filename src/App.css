@@ -27,6 +27,9 @@
     background-color: white !important;
   transition: all 0.8s ease-in-out;
 }
+.visibile-hidden{
+  visibility: hidden;
+}
 .hero_header{
   font-size: 2vw;
   color: white;

@@ -9,7 +9,11 @@ const HeroSection = () => {
 
         <Header />
    <div className='nav_main'>
-
+         <div>
+            <p className='visibile-hidden'>
+               Visibility hidden
+            </p>
+         </div>
 
         <div className='hero_sec container-fluid col-9 '>
         <div className='row d-flex justify-content-start align-items-center'>
